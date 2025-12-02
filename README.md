@@ -18,5 +18,9 @@ SNIIM: https://www.economia-sniim.gob.mx/nuevo/
 
 Dataset:
 
-https://www.kaggle.com/datasets/jlmartinezol/milk-prices-in-mexico-2024-2025
+https://www.kaggle.com/datasets/jlmartinezol/milk-prices-in-mexico-2024-2025 
+
+Apresentação Youtube:
+
+https://youtu.be/CP0YXzjImyk?si=IBo5IkISp_4kOpgj
 
